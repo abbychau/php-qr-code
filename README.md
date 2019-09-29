@@ -1,4 +1,4 @@
-# php-qrcode
+# php-qr-code
 PHP Qr Code Generator compatible with php 7.0
 Ported from [http://phpqrcode.sourceforge.net/](http://phpqrcode.sourceforge.net/)
 
