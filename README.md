@@ -1,4 +1,4 @@
-# php-qr-code
+# php-qrcode
 PHP Qr Code Generator compatible with php 7.0
 Ported from [http://phpqrcode.sourceforge.net/](http://phpqrcode.sourceforge.net/)
 
@@ -8,7 +8,7 @@ The recommended method of installing this library is via [Composer](https://getc
 Run the following command from your project root:
 
 ```bash
-$ composer require ziplr/php-qr-code
+$ composer require abbychau/php-qrcode
 ```
 
 ## Usage 
